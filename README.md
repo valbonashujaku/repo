@@ -1,6 +1,6 @@
 # repo
 
-Wellcome to this repository! This is a small project used to practice contributions and pull requests.
+Welcome to this repository! This is a small project used to practice contributions and pull requests.
 
 ## Getting Started
 
